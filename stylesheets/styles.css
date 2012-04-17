@@ -185,6 +185,7 @@ footer {
 
 .talks {
   visibility: hidden;
+  display: none;
 }
 @media print, screen and (max-width: 960px) {
 
