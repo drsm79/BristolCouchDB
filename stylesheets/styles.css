@@ -181,6 +181,7 @@ footer {
   float:left;
   position:fixed;
   bottom:50px;
+  line-height:2;
 }
 
 .talks {
