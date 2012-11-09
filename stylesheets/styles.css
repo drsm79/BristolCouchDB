@@ -162,7 +162,7 @@ header ul a strong {
 section {
   width:500px;
   float:right;
-  padding-bottom:50px;
+  padding-bottom:25px;
 }
 
 small {
@@ -183,10 +183,6 @@ footer {
   bottom:50px;
 }
 
-.talks {
-  visibility: hidden;
-  display: none;
-}
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
